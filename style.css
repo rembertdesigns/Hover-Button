@@ -14,7 +14,8 @@ body {
 }
 .button:hover {
   background-color: gold;
-}.footer {
+}
+.footer {
   position: absolute;
   right: 0;
   bottom: 0;
